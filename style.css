@@ -23,6 +23,10 @@ li {
 
 div {
   color: #dd33ca;
+
+  span {
+    font-weight: 800;
+  }
 }
 
 span {
