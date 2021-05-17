@@ -21,11 +21,9 @@ li {
 
 }
 
-<<<<<<< HEAD
 div {
   color: #dd33ca;
-=======
-span {
-  font-weight: 800;
->>>>>>> 9c0ca0f89ce27c9b0e01537c42cb3c0c012d94db
-}
+
+  span {
+    font-weight: 800;
+  }
